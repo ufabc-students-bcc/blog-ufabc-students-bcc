@@ -1,0 +1,15 @@
+base_url = "https://example.com"
+default_language = 'pt'
+compile_sass = true
+highlight_code = true
+build_search_index = true
+
+theme = "hyde"
+description = "Blog da Comunidade Discente de Ciência da Computação da UFABC"
+title = "Blog do BCC (UFABC)"
+
+[extra]
+hyde_links = [
+    {url = "https://github.com/ufabc-students-bcc", name = "Github"},
+]
+hyde_sticky = false
