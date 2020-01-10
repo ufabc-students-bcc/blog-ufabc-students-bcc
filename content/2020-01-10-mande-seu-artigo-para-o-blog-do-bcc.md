@@ -24,11 +24,11 @@ Além disso, não importa se esse é o seu primeiro artigo ou se você já publi
 
 Para publicar seu artigo, você tem três alternativas!
 
-- Mandar o seu artigo em uma Issue no repositório do Github desse blog! [Basta seguir o template e submeter seu artigo!]()
+- Mandar o seu artigo em uma Issue no repositório do Github desse blog! [Basta seguir o template e submeter seu artigo!](https://github.com/el-cardu/blog-ufabc-students-bcc/issues/new?assignees=el-cardu&labels=blog-post&template=blog-post.md&title=ano-dia-mes-titulo-da-postagem.md)
 - Efetuar um Pull Request com o conteúdo do seu post! O presente blog foi criado com [um gerador de sites estáticos em Rust, chamado Zola](https://github.com/getzola/zola), basta seguir a documentação.
 - Ou...simplesmente enviar o link com seu conteúdo para: ufabc.students.bcc@gmail.com
 
-Por fim, acaso você quiser retirar, revisar ou denunciar algum conteúdo! [É só abrir uma issue]()!
+Por fim, acaso você quiser retirar, revisar ou denunciar algum conteúdo! [É só abrir uma issue](https://github.com/el-cardu/blog-ufabc-students-bcc/issues/new)!
 
 ---
 

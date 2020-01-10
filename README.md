@@ -1,5 +1,7 @@
 # :pencil2: BCC BLOG (UFABC)
 
+![UFABC](https://camo.githubusercontent.com/d74c1b2007ca525341c60ad625153babce5cb836/68747470733a2f2f692e696d6775722e636f6d2f6d3542736d32592e706e67)
+
 This is the community blog you've always dreamed of.
 
 Send your articles. Join us!
